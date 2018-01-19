@@ -196,7 +196,7 @@ class EnemyMissile(spgl.Sprite):
 # Create Functions
 
 # Initial Game setup
-game = MissileCommand(800, 600, "black", "Missile Command by /u/wynand1004 AKA @TokyoEdTech", 5)
+game = MissileCommand(800, 600, "black", "Missile Command by /u/wynand1004 AKA @TokyoEdTech", 3)
 game.score = 0
 
 # Create Sprites
